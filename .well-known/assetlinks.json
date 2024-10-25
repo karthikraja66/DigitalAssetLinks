@@ -5,7 +5,7 @@
             "namespace": "android_app",
             "package_name": "your.package.name",
             "sha256_cert_fingerprints": [
-                "YOUR_APP_SHA256_FINGERPRINT"
+                "YOUR_APP_SHA256_FINGERPRINTS"
             ]
         }
     }
